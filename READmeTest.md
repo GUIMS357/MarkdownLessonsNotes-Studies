@@ -34,3 +34,39 @@ another way is usingo "<>" before and after the link
 <https://github.com/GUIMS357> 
 
 
+# quotes
+
+to add a quote we need to pu a ">" before and if you want to create a multiple lines quote, you need tu put ">"before each line
+> this is a quote 
+
+>this is
+>a multiple line quote
+
+# unordered list
+
+to add a non ordered list, you need to put a "- " or "* " before the text and, edent if you want a subtopic inside a topic
+
+- topic 1
+  - subtopic 1.1
+  - subtopic 1.2
+- topic 2
+  - subtopic 2.1
+
+another way
+* topic 1
+  * subtopic 1.1
+  * subtopic 1.2
+* topic 2
+  * subtopic 2.1
+
+
+# ordered lists
+
+to add a non ordered list, you need to put "number" before the text and, edent if you want a subtopic inside a topic
+
+1. topic 1
+  1.1. subtopic 1.1
+  1.2. subtopic 1.2
+2. topic 2
+    2.1. subtopic 2.1
+    2.2. subtopic 2.1
