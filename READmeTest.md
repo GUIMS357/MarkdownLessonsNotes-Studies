@@ -110,5 +110,53 @@ to add a image at internet you need to use "!"followed by "[image name]" "(image
 ![webimage](https://upload.wikimedia.org/wikipedia/commons/3/37/GNOME_Web_logo--2018.svg)
 
 
+# tables
+
+you need to draw it, using "|" to separate columns and "-----" to separate lines add ":" afoter to right align and ":" after and before to centralize
+
+mat 0,0 | mat 0,1| mat 0,2
+--------|--------|---------
+mat 1.0 | mat 1,1| mat 1,2
+mat 2,0| mat 2,1|mat 2,2
+
+
+# monospaced text (InLine)
+used to show code, you need to put  the text between two rows of "```" and if you writte the lenguage of the code after, it will automatically put the default collors
+
+text whitout color
+
+##python example
+
+```
+def invert(text)
+  return text[::-1]
+```
+
+##Javascript example
+
+```
+finction writte_name(name){
+  console.log(name);
+}
+```
+
+text with color
+
+##python example
+
+```python
+def invert(text)
+  return text[::-1]
+```
+
+##Javascript example
+
+```javascript
+finction writte_name(name){
+  console.log(name);
+}
+```
+
+
 
     
