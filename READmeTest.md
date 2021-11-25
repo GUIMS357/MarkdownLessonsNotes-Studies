@@ -121,7 +121,7 @@ mat 2,0| mat 2,1|mat 2,2
 
 
 # monospaced text (InLine)
-used to show code, you need to put  the text between two rows of "```" and if you writte the lenguage of the code after, it will automatically put the default collors
+used to show code, you need to put  the text between two rows of "```"
 
 text whitout color
 
@@ -140,7 +140,7 @@ finction writte_name(name){
 }
 ```
 
-text with color
+text with color ( add the language name after ` )
 
 ##python example
 
@@ -156,6 +156,40 @@ finction writte_name(name){
   console.log(name);
 }
 ```
+
+
+# to do list
+
+to create a to do list you need to use "- [ ]" before text and to mar the checkbox use a x between the [] and to pit a line over use ~~ between the sentence
+
+- [ ] list 1
+- [ ] list 2
+- [x] ~~list 3~~
+
+# separate content
+
+to separate content you need tu use "---"
+
+---
+content 1
+
+--- 
+content 2
+
+# references
+
+you can create a variable to use as a reference 
+
+to create you need to declare it  between "[ ]" followed by ":" and what it is pointing "(could be an image, a website)"
+
+
+
+[linkdologo][gitlogov]
+
+
+
+[gitlogov]: GitHub_logo.png
+
 
 
 
